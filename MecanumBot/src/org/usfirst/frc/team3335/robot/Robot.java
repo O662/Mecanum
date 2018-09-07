@@ -24,6 +24,11 @@ import org.usfirst.frc.team3335.robot.subsystems.DriveTrain;
  * project.
  */
 
+
+//Kirby did not do this project.... I Alyssa Cassity did it. 
+//if he trys to turn this in 
+//FAIL HIM!!!!!!
+
 //this bot is a mecanum drive robot
 public class Robot extends TimedRobot {
 	
